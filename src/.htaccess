@@ -1,0 +1,5 @@
+RewriteRule rsc$ cookieJam.php?requestType=rsc [L]
+RewriteRule stu$ cookieJam.php?requestType=stu [L]
+RewriteRule aOp$ cookieJam.php?requestType=aOp [L]
+RewriteRule srcv$ cookieJam.php?requestType=srcv [L]
+RewriteRule sbs$ cookieJam.php?requestType=sbs [L]
